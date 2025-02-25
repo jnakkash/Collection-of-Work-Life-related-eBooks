@@ -1,6 +1,6 @@
 # Book Repository Description
 
-This repository provides a curated list of 44 influential books spanning topics such as personal development, leadership, productivity, and psychology. Each entry includes the book's title, a brief description, Amazon rating, number of reviews, and best-seller status, all formatted for easy integration. 
+This repository provides a curated list of 44 best selling influential books spanning topics such as personal development, leadership, productivity, and psychology. Each entry includes the book's title, a brief description, Amazon rating, number of reviews, and best-seller status, all formatted for easy integration. 
 
 This collection serves as a valuable resource for individuals seeking to enhance their knowledge and skills in various domains.
 
